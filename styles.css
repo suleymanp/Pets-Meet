@@ -1,0 +1,102 @@
+body {
+    background-color: #A71930;
+}
+
+div {
+    border: 3px dashed black;
+}
+
+.profile {
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding: 10px;
+    border: 10px dashed #EF3E42;
+    box-shadow: 10px 10px 500px 10px #EF3E42;
+}
+
+.navBar {
+    display: flex;
+    justify-content: space-around;
+    border: dashed 4px #EF3E42;
+}
+
+h1 {
+    padding: 10px;
+}
+
+h3 {
+    padding: 1px;
+    text-align: center;
+    border: 1px solid;
+}
+
+h2 {
+    padding: 10px;
+}
+
+p {
+    padding: 10px;
+    font-family: 'Caveat', cursive;
+    font-size: 22px;
+    color: #FFA384;
+}
+
+.items {
+    border: dotted #74BDCB 5px;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+    height: 25px;
+    width: 60px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.header {
+    display: flex;
+    border: dashed 4px #005A9C;
+}
+
+.logo {
+    padding: 10px;
+    height: 70px;
+    width: 100px;
+}
+
+.center {
+    border: dashed 4px #005A9C;
+}
+
+.aboutMe {
+    border: dashed 4px #EF3E42;
+}
+
+.friendsList {
+    border: dashed 4px #EF3E42;
+    display: flex;
+}
+
+.birdfriend {
+    padding: 10px;
+    border: 10px dashed #EF3E42;
+    margin: 10px;
+}
+
+.husky {
+    padding: 10px;
+    border: 10px dashed #EF3E42;
+    margin: 10px;
+
+}
+
+.posts {
+    border: dashed 4px #005A9C;
+    display: block;
+    justify-content: space-around;
+}
+.puig{
+
+}
